@@ -17,6 +17,8 @@
         "thienhungho/yii2-subscribe-management": "*",
         "thienhungho/yii2-favorites": "*",
         "thienhungho/yii2-contact-management": "*",
+        "thienhungho/yii2-term-management": "*",
+        "thienhungho/yii2-comment-management": "*",
         "thienhungho/yii2-product-management": "*",
         "thienhungho/yii2-order-management": "*",
         "thienhungho/yii2-cart": "*"
